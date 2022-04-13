@@ -1,0 +1,47 @@
+elapsed time: 9.01673739 seconds
+Broadcasting parameters finished!
+n_amplitudes : 44
+n_circuits : 631
+--------------end get_total_energy----------  -7.830905584637077
+elapsed time: 419.770219054 seconds
+--------------end get_total_energy----------  -7.830905584637077
+elapsed time: 12.854073166 seconds
+--------------end get_total_energy----------  -4.1027561961402235
+elapsed time: 16.155599955 seconds
+--------------end get_total_energy----------  -7.364846766692683
+elapsed time: 14.58564571 seconds
+--------------end get_total_energy----------  -4.205495023309262
+elapsed time: 17.366042011 seconds
+--------------end get_total_energy----------  -7.4187490843193125
+elapsed time: 15.757504974 seconds
+--------------end get_total_energy----------  -4.205495023309222
+elapsed time: 18.740659734 seconds
+--------------end get_total_energy----------  -7.4187490843193284
+elapsed time: 17.044609921 seconds
+--------------end get_total_energy----------  -3.75762185426744
+elapsed time: 19.834182879 seconds
+--------------end get_total_energy----------  -7.179069344649706
+elapsed time: 18.226914028 seconds
+--------------end get_total_energy----------  -3.438401033317034
+elapsed time: 14.997910623 seconds
+--------------end get_total_energy----------  -5.611805931825622
+elapsed time: 15.88750012 seconds
+--------------end get_total_energy----------  -7.335169946103421
+elapsed time: 14.229359705 seconds
+--------------end get_total_energy----------  -2.8491774276899995
+elapsed time: 16.7270417 seconds
+--------------end get_total_energy----------  -5.698519099665271
+elapsed time: 18.526319931 seconds
+--------------end get_total_energy----------  -2.9969013732386176
+elapsed time: 21.40316492 seconds
+--------------end get_total_energy----------  -7.153937962374452
+elapsed time: 15.683385545 seconds
+--------------end get_total_energy----------  -2.6889419345148404
+elapsed time: 17.803842831 seconds
+--------------end get_total_energy----------  -5.681268593564983
+elapsed time: 20.02544105 seconds
+--------------end get_total_energy----------  -2.9572879054952033
+elapsed time: 22.625882814 seconds
+--------------end get_total_energy----------  -7.2053225490381605
+elapsed time: 16.738837902 seconds
+elapsed time: 345.2975208759308 seconds, got -7.830905584637077 at [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] (returned MAXEVAL_REACHED)

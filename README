@@ -1,1 +1,3 @@
-VQE Inputs
+Pure MPE VQE on sw
+VQE Inputs are listed in folders like "01_H6"
+To run, simply enter one input folder and execute "./run.sh"
